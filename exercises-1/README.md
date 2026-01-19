@@ -1,4 +1,4 @@
-## Coursework Exercises
+##  Exercises
 
 This folder contains individual data analysis and machine learning exercises completed as part of academic coursework.
 
