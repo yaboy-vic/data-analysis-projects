@@ -1,3 +1,10 @@
+"""
+Apartment Rent Analysis
+Coursework Exercise
+
+Explores apartment rental pricing patterns using Python,
+including data cleaning and exploratory data analysis.
+"""
 import pandas as pd
 import numpy as np
 import seaborn as sns
